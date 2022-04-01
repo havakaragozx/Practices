@@ -4,7 +4,7 @@ namespace MyApp
 {
     internal class Program
     {
-      public  static async void Main(string[] args)
+      public  static  void Main(string[] args)
         {
             //Rekürsif - Öz yinelemeli fonksiyonlar
             int result=1;
