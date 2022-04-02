@@ -1,29 +1,32 @@
 ﻿using System;
- /*Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n). 
- Sonrasında kullanıcıdan n adet kelime girmesi isteyin. 
- Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a yazdırın..*/
-namespace MyApp 
+/*Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin.
+ Cümledeki toplam kelime ve harf sayısını console'a yazdırın..*/
+namespace MyApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Pozitif bir sayi giriniz :");
-            int n=Convert.ToInt32(Console.ReadLine());
-            List<string> kelimeler=new List<string>();
-            
-            Console.WriteLine("{0} adet kelime giriniz :",n);
-            for(int i=0;i<n;i++){
-                Console.Write("{0} .Kelimeyi giriniz : ",i+1);              
-                string kelime=Console.ReadLine();
-                kelimeler.Add(kelime);
-                
+            Console.Write("Bir cümle yazınız : ");
+            string cumle = Console.ReadLine();
+            string liste = "ABCÇDEFGĞHİIJKLMNOÖPRSŞTUÜVYZ"
+                      + "abcçdefgğhiıjklmnoöprsştuüvyz";
+
+            string[] kelimeler = cumle.Split(' ');
+            Console.WriteLine("Kelime sayısı : " + kelimeler.Length);
+
+            int sayac = 0;
+            for (int i = 0; i < cumle.Length; i++)
+            {
+                if (liste.Contains(cumle[i]))
+                {
+                    sayac++;
+                }
             }
-          int son=kelimeler.Count-1;
-          for(int i=son;i>=0;i--){
-              Console.WriteLine(kelimeler[i]);
-          }
-        
+            Console.WriteLine("toplam {0} tane  harf vardır.", sayac);
+            Console.ReadLine();
+
+
         }
     }
 }
