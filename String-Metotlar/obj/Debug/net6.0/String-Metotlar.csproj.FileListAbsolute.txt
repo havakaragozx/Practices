@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\bin\Debug\net6.0\String-Metotlar.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\bin\Debug\net6.0\String-Metotlar.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\bin\Debug\net6.0\String-Metotlar.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\bin\Debug\net6.0\String-Metotlar.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\bin\Debug\net6.0\ref\String-Metotlar.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\bin\Debug\net6.0\String-Metotlar.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\String-Metotlar.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\String-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\String-Metotlar.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\String-Metotlar.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\String-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\String-Metotlar.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\ref\String-Metotlar.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\String-Metotlar.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\String-Metotlar\obj\Debug\net6.0\String-Metotlar.genruntimeconfig.cache
