@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\bin\Debug\net6.0\Odev.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\bin\Debug\net6.0\Odev.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\bin\Debug\net6.0\Odev.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\bin\Debug\net6.0\Odev.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\bin\Debug\net6.0\ref\Odev.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\bin\Debug\net6.0\Odev.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\Odev.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\Odev.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\Odev.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\Odev.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\Odev.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\ref\Odev.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\Odev.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Odev\obj\Debug\net6.0\Odev.genruntimeconfig.cache
