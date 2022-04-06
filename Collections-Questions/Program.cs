@@ -7,102 +7,62 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            /*
-            Soru - 1: Klavyeden girilen 20 adet pozitif sayının asal ve asal olmayan olarak 2 ayrı
-             listeye atın. (ArrayList sınıfını kullanara yazınız.)
-             Negatif ve numeric olmayan girişleri engelleyin.
-             Her bir dizinin elemanlarını büyükten küçüğe olacak şekilde ekrana yazdırın.
-             Her iki dizinin eleman sayısını ve ortalamasını ekrana yazdırın.
-            */
-            ArrayList list = new ArrayList();
-            ArrayList prime = new ArrayList();
-            ArrayList notprime = new ArrayList();
-            Manager manager = new Manager();
+            /* Soru - 2: Klavyeden girilen 20 adet sayının en büyük 3 tanesi 
+            ve en küçük 3 tanesi bulan, her iki grubun kendi içerisinde ortalamalarını alan 
+            ve bu ortalamaları ve ortalama toplamlarını
+             console'a yazdıran programı yazınız. 
+             (Array sınıfını kullanarak yazınız.)*/
+
+
+            int[] sayilar = new int[20];
+            int[] minSayilar = new int[3];
+            int[] maxSayilar = new int[3];
 
             Console.WriteLine("20 adet pozitif sayı giriniz: ");
-            try
-            {
-                for (int i = 1; i < 21; i++)
-                {
-                    Console.Write("{0}.pozitif sayı :" , i);
-                    int number = int.Parse(Console.ReadLine());
-                    if (number < 0)
-                    {
-                        Console.WriteLine("Lütfen pozitif bir sayı giriniz.");
-                        break;
-                    }
-                    list.Add(number);
 
-                }
-            }
-            catch
+            for (int i = 0; i < 20; i++)
             {
-                Console.WriteLine("Lütfen pozitif bir sayı giriniz.");
+                Console.Write("{0}.pozitif sayı :", i+1);
+                sayilar[i] = int.Parse(Console.ReadLine());
+
             }
-            Console.WriteLine("-------------------");
-            foreach (int item in list)
+            Array.Sort(sayilar);
+            double minSayac = 0;
+
+            for (int i = 0; i < 3; i++)
             {
-                if (item == 1)
-                {
-                    notprime.Add(item);
-                }
-                else if (item == 2)
-                {
-                    prime.Add(item);
-                }
-                else
-                {
-                    int primenumber = 0;
-                    for (int i = 2; i < item; i++)
-                    {
-                        if (item % i == 0)
-                        {
-                            primenumber++;
-                        }
-                    }
-                    if (primenumber == 0)
-                    {
-                        prime.Add(item);
-                    }
-                    else
-                    {
-                        notprime.Add(item);
-                    }
-                }
+                minSayilar[i] = sayilar[i];
             }
-            Console.WriteLine("Asal olan sayıların büyükten küçüğe sırılansı: ");
-            manager.PrimeProperties(prime);
-            Console.WriteLine("Asal olanların eleman sayısı: " + prime.Count);
-            manager.Average(prime);
-            Console.WriteLine("Asal olmayanların büyükten küçüğe sıralanışı :");
-            manager.PrimeProperties(notprime);
-            Console.WriteLine("Asal olmayanların eleman  sayısı : " + notprime.Count);
-            manager.Average(notprime);
+            Console.WriteLine("Dizinin en küçük elemanları: ");
+            foreach (var item in minSayilar)
+            {
+                Console.WriteLine(item);
+                minSayac += item;
+            }
+
+            Array.Reverse(sayilar);
+            double maxSayac = 0;
+            for (int i = 0; i < 3; i++)
+            {
+                maxSayilar[i] = sayilar[i];
+            }
+            Console.WriteLine("Dizinin en büyük elemanları: ");
+            foreach (var item in maxSayilar)
+            {
+                Console.WriteLine(item);
+                maxSayac += item;
+            }
+
+            double minAvg = minSayac / 3;
+            double maxAvg = maxSayac / 3;
+
+            Console.WriteLine("Küçük dizinin ortalamasi : " + minAvg);
+            Console.WriteLine("Büyük dizinin ortalamasi : " + maxAvg);
+            Console.WriteLine("Büyük ve Küçük dizinin ortalamaları toplamı: " + (minAvg + maxAvg));
+
+
+
         }
     }
 
-    public class Manager
-    {
-        public ArrayList PrimeProperties(ArrayList arr)
-        {
-            arr.Sort();
-            arr.Reverse();
-            foreach (var item in arr)
-            {
-                Console.WriteLine(item + " ");
-            }
-            return arr;
-        }
-        public ArrayList Average(ArrayList arr)
-        {
-            int total = 0;
-            foreach (int item in arr)
-            {
-                total += item;
-            }
-            decimal avg = Convert.ToDecimal(total / arr.Count);
-            Console.WriteLine("Average: " + avg);
-            return arr;
-        }
-    }
 }
