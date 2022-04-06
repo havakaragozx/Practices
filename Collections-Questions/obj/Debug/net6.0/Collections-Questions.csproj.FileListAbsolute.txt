@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\bin\Debug\net6.0\Collections-Questions.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\bin\Debug\net6.0\Collections-Questions.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\bin\Debug\net6.0\Collections-Questions.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\bin\Debug\net6.0\Collections-Questions.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\bin\Debug\net6.0\ref\Collections-Questions.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\bin\Debug\net6.0\Collections-Questions.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\Collections-Questions.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\Collections-Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\Collections-Questions.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\Collections-Questions.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\Collections-Questions.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\Collections-Questions.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\ref\Collections-Questions.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\Collections-Questions.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\obj\Debug\net6.0\Collections-Questions.genruntimeconfig.cache
