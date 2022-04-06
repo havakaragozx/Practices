@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\bin\Debug\net6.0\ArrayList.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\bin\Debug\net6.0\ArrayList.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\bin\Debug\net6.0\ref\ArrayList.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ArrayList.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
