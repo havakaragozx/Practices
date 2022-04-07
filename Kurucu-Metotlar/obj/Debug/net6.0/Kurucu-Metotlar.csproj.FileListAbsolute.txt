@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\bin\Debug\net6.0\Kurucu-Metotlar.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\bin\Debug\net6.0\Kurucu-Metotlar.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\bin\Debug\net6.0\Kurucu-Metotlar.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\bin\Debug\net6.0\Kurucu-Metotlar.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\bin\Debug\net6.0\ref\Kurucu-Metotlar.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\bin\Debug\net6.0\Kurucu-Metotlar.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\Kurucu-Metotlar.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\Kurucu-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\Kurucu-Metotlar.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\Kurucu-Metotlar.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\Kurucu-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\Kurucu-Metotlar.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\ref\Kurucu-Metotlar.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\Kurucu-Metotlar.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\obj\Debug\net6.0\Kurucu-Metotlar.genruntimeconfig.cache

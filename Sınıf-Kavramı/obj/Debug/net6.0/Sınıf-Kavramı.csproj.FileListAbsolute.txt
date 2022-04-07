@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\bin\Debug\net6.0\Sınıf-Kavramı.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\bin\Debug\net6.0\Sınıf-Kavramı.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\bin\Debug\net6.0\Sınıf-Kavramı.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\bin\Debug\net6.0\Sınıf-Kavramı.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\bin\Debug\net6.0\ref\Sınıf-Kavramı.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\bin\Debug\net6.0\Sınıf-Kavramı.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\Sınıf-Kavramı.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\Sınıf-Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\Sınıf-Kavramı.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\Sınıf-Kavramı.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\Sınıf-Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\Sınıf-Kavramı.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\ref\Sınıf-Kavramı.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\Sınıf-Kavramı.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Sınıf-Kavramı\obj\Debug\net6.0\Sınıf-Kavramı.genruntimeconfig.cache

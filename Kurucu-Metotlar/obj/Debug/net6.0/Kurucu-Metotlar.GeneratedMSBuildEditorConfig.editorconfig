@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Collections_Questions
-build_property.ProjectDir = c:\Users\hava.karagoz\Desktop\C#\Practices\Collections-Questions\
+build_property.RootNamespace = Kurucu_Metotlar
+build_property.ProjectDir = C:\Users\hava.karagoz\Desktop\C#\Practices\Kurucu-Metotlar\

@@ -6,28 +6,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            /*Erişim Belirleyiciler
-               Public : heryerden erişilebilir
-               Private : sadece tanımlandıgı sınıf ıcerısınde erişilebilir
-               Internal : kendı bulundugu proje ıcınde erişilebilir 
-               Protected : sadece tanımlandıgı sınıfta veya o sınıftan miras alan sınıflardan erişilebilir. */
-            Calisan calisan1 = new Calisan();
-            calisan1.Ad = "Hava";
-            calisan1.Soyad = "Karagöz";
-            calisan1.No = 107;
-            calisan1.Departman = "Yazılım";
-
+            Calisan calisan1 = new Calisan("Hava", "Karagöz", 107, "Yazılım");
             calisan1.CalisanBilgileri();
             Console.WriteLine("*************");
-            Calisan calisan2 = new Calisan();
-            calisan2.Ad = "Elif";
-            calisan2.Soyad = "Karagöz";
-            calisan2.No = 8531;
-            calisan2.Departman = "Eğitim";
-
+            Calisan calisan2 = new Calisan("Elif", "Karagöz", 8531, "Eğitim");
             calisan2.CalisanBilgileri();
-
-
+            Console.WriteLine("*************");
+            Calisan calisan3 = new Calisan("Barış", "Karagöz");
+            calisan3.CalisanBilgileri();
 
 
         }
@@ -38,6 +24,25 @@ namespace MyApp // Note: actual namespace depends on the project name.
             public string Soyad;
             public int No;
             public string Departman;
+
+            public Calisan()
+            {
+
+            }
+            public Calisan(string ad, string soyad, int no, string departman)
+            {
+                this.Ad = ad;
+                this.Soyad = soyad;
+                this.No = no;
+                this.Departman = departman;
+            }
+            public Calisan(string ad, string soyad)
+            {
+                this.Ad = ad;
+                this.Soyad = soyad;
+
+            }
+
             public void CalisanBilgileri()
             {
                 Console.WriteLine("Çalışan Adı : {0}", Ad);
@@ -49,29 +54,4 @@ namespace MyApp // Note: actual namespace depends on the project name.
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
