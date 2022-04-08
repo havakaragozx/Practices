@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\bin\Debug\net6.0\Static-sinif-ve-üyeler.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\bin\Debug\net6.0\Static-sinif-ve-üyeler.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\bin\Debug\net6.0\Static-sinif-ve-üyeler.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\bin\Debug\net6.0\Static-sinif-ve-üyeler.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\bin\Debug\net6.0\ref\Static-sinif-ve-üyeler.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\bin\Debug\net6.0\Static-sinif-ve-üyeler.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\Static-sinif-ve-üyeler.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\Static-sinif-ve-üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\Static-sinif-ve-üyeler.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\Static-sinif-ve-üyeler.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\Static-sinif-ve-üyeler.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\Static-sinif-ve-üyeler.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\ref\Static-sinif-ve-üyeler.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\Static-sinif-ve-üyeler.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Static-sinif-ve-üyeler\obj\Debug\net6.0\Static-sinif-ve-üyeler.genruntimeconfig.cache
