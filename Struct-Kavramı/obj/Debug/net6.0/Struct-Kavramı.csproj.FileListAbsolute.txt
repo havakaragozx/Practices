@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\bin\Debug\net6.0\Struct-Kavramı.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\bin\Debug\net6.0\Struct-Kavramı.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\bin\Debug\net6.0\Struct-Kavramı.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\bin\Debug\net6.0\Struct-Kavramı.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\bin\Debug\net6.0\ref\Struct-Kavramı.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\bin\Debug\net6.0\Struct-Kavramı.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\Struct-Kavramı.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\Struct-Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\Struct-Kavramı.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\Struct-Kavramı.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\Struct-Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\Struct-Kavramı.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\ref\Struct-Kavramı.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\Struct-Kavramı.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Struct-Kavramı\obj\Debug\net6.0\Struct-Kavramı.genruntimeconfig.cache
