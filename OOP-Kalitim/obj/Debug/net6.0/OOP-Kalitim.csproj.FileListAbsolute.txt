@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\bin\Debug\net6.0\OOP-Kalitim.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\bin\Debug\net6.0\OOP-Kalitim.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\bin\Debug\net6.0\OOP-Kalitim.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\bin\Debug\net6.0\OOP-Kalitim.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\bin\Debug\net6.0\ref\OOP-Kalitim.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\bin\Debug\net6.0\OOP-Kalitim.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\OOP-Kalitim.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\OOP-Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\OOP-Kalitim.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\OOP-Kalitim.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\OOP-Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\OOP-Kalitim.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\ref\OOP-Kalitim.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\OOP-Kalitim.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Kalitim\obj\Debug\net6.0\OOP-Kalitim.genruntimeconfig.cache
