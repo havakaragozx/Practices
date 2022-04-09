@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\bin\Debug\net6.0\Interface-Ornek.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\bin\Debug\net6.0\Interface-Ornek.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\bin\Debug\net6.0\Interface-Ornek.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\bin\Debug\net6.0\Interface-Ornek.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\bin\Debug\net6.0\ref\Interface-Ornek.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\bin\Debug\net6.0\Interface-Ornek.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\Interface-Ornek.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\Interface-Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\Interface-Ornek.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\Interface-Ornek.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\Interface-Ornek.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\Interface-Ornek.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\ref\Interface-Ornek.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\Interface-Ornek.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Interface-Ornek\obj\Debug\net6.0\Interface-Ornek.genruntimeconfig.cache
