@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\ref\Telefon-Rehberi-Uygulamasi.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\ref\Telefon-Rehberi-Uygulamasi.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.genruntimeconfig.cache
