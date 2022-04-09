@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\bin\Debug\net6.0\OOP-Polymorphism.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\bin\Debug\net6.0\OOP-Polymorphism.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\bin\Debug\net6.0\OOP-Polymorphism.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\bin\Debug\net6.0\OOP-Polymorphism.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\bin\Debug\net6.0\ref\OOP-Polymorphism.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\bin\Debug\net6.0\OOP-Polymorphism.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\OOP-Polymorphism.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\OOP-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\OOP-Polymorphism.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\OOP-Polymorphism.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\OOP-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\OOP-Polymorphism.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\ref\OOP-Polymorphism.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\OOP-Polymorphism.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Polymorphism\obj\Debug\net6.0\OOP-Polymorphism.genruntimeconfig.cache

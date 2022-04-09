@@ -1,0 +1,15 @@
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\bin\Debug\net6.0\OOP-Interface.exe
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\bin\Debug\net6.0\OOP-Interface.deps.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\bin\Debug\net6.0\OOP-Interface.runtimeconfig.json
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\bin\Debug\net6.0\OOP-Interface.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\bin\Debug\net6.0\ref\OOP-Interface.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\bin\Debug\net6.0\OOP-Interface.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\OOP-Interface.csproj.AssemblyReference.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\OOP-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\OOP-Interface.AssemblyInfoInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\OOP-Interface.AssemblyInfo.cs
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\OOP-Interface.csproj.CoreCompileInputs.cache
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\OOP-Interface.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\ref\OOP-Interface.dll
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\OOP-Interface.pdb
+C:\Users\hava.karagoz\Desktop\C#\Practices\OOP-Interface\obj\Debug\net6.0\OOP-Interface.genruntimeconfig.cache
